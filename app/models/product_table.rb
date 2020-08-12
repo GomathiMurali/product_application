@@ -1,0 +1,2 @@
+class ProductTable < ApplicationRecord
+end
